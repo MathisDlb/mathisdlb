@@ -7,10 +7,8 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning all Web languages.
 - 👯 I’m looking to collaborate on web projects
 - 💬 Ask me about help ;)
-- 📫 How to reach me : Via Gi
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me : Via GitHub or Discord :^
+- ⚡ Fun fact : At first I was struggling with the coding and I hated it! How could I do that?! How could I do that?!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NjkyMTE3XX0=
+eyJoaXN0b3J5IjpbLTExMTMzMTU3OV19
 -->
