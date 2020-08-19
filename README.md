@@ -8,7 +8,9 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on web projects
 - 💬 Ask me about help ;)
 - 📫 How to reach me : Via GitHub or Discord :^
-- ⚡ Fun fact : At first I was struggling with the coding and I hated it! How could I do that?! How could I do that?!
+- ⚡ Fun fact : At first I was struggling with the coding and I hated it! How could I do that?!
+
+I'm French and I come from Normandy. Long live the cows, no? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMzMTU3OV19
+eyJoaXN0b3J5IjpbLTIwODk4MTE3NzddfQ==
 -->
