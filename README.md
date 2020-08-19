@@ -11,6 +11,4 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact : At first I was struggling with the coding and I hated it! How could I do that?!
 
 I'm French and I come from Normandy. Long live the cows, no? 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk4MTE3NzddfQ==
--->
+I think you have more information than the CIA, now let's go code!
