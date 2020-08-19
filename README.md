@@ -6,7 +6,6 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Laravel project.
 - 🌱 I’m currently learning all Web languages.
 - 👯 I’m looking to collaborate on web projects
-- 💬 Ask me about help ;)
 - 📫 How to reach me : Via GitHub or Discord :^
 - ⚡ Fun fact : At first I was struggling with the coding and I hated it! How could I do that?!
 
