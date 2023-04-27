@@ -4,7 +4,7 @@
 
 ```javascript
 const MathisDlb = {
-    pronouns: "He" | "Him",
+    pronouns: "He",
     portfolio: "mathisdlb.fr",
     code: ["Javascript", "Python", "GLua", "SQF", "Java", "PHP", "..."],
     learning: ["Frameworks", "funnyLanguages"],
